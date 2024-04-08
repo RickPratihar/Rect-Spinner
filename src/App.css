@@ -1,0 +1,26 @@
+.mens{
+  color: black;
+}
+
+.app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.btn{
+  cursor: pointer;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 10px;
+  background: black;
+  color: white;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.output{
+  display: flex;
+  justify-content: center;
+  font-size: x-large;
+}
